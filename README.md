@@ -3,8 +3,8 @@
 
 ---
 
-> 🤖 This repository contains the **frontend** of Ideafy.  
-> The backend — multi-agent engine, RAG pipeline, and API — lives here: **[Ideafy Backend →](https://github.com/hazem-gamal-1/Ideafy-agents)**
+> 🤖 **Backend repository :** **[Ideafy-agents →](https://github.com/hazem-gamal-1/Ideafy-agents)**  
+> 🌐 **Live demo :** **[ideafy-seven.vercel.app](https://ideafy-seven.vercel.app/)**
 
 ---
 

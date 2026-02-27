@@ -5,7 +5,7 @@
 ---
 
 > 🤖 This repository contains the **frontend** of Ideafy.  
-> The backend — multi-agent engine, RAG pipeline, and API — lives here: **[Ideafy Backend →](https://github.com/hazem-gamal-1/Ideafy)**
+> The backend — multi-agent engine, RAG pipeline, and API — lives here: **[Ideafy Backend →](https://github.com/hazem-gamal-1/Ideafy-agents)**
 
 ---
 
@@ -29,7 +29,7 @@ Unified Structured Output
 The orchestrator coordinates all sub-agents and merges their outputs into a single structured response.
 
 > 🔧 **Powered by a dedicated multi-agent backend** — built with FastAPI, LangChain, LangGraph, and ChromaDB.  
-> Explore the agent design, RAG pipeline, and API reference → [Backend Repository](https://github.com/hazem-gamal-1/Ideafy)
+> Explore the agent design, RAG pipeline, and API reference → [Backend Repository](https://github.com/hazem-gamal-1/Ideafy-agents)
 
 ---
 ## 🔍 Core Capabilities
@@ -73,7 +73,7 @@ Streaming structured JSON containing:
 - SWOT analysis  
 - Unified overall summary  
 
-> 📖 Full request/response documentation → [Backend Repository](https://github.com/hazem-gamal-1/Ideafy)
+> 📖 Full request/response documentation → [Backend Repository](https://github.com/hazem-gamal-1/Ideafy-agents)
 
 ---
 ## ⚙️ Technology Stack

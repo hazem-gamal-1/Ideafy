@@ -1,5 +1,4 @@
 # ✨ Ideafy  
-> **Validate · Analyze · Strategize**  
 > A multi-agent AI system for structured startup intelligence.
 
 ---
@@ -27,10 +26,6 @@ Idea Validation Agent · Legal Analysis Agent · SWOT Analysis Agent
 ↓  
 Unified Structured Output  
 The orchestrator coordinates all sub-agents and merges their outputs into a single structured response.
-
-> 🔧 **Powered by a dedicated multi-agent backend** — built with FastAPI, LangChain, LangGraph, and ChromaDB.  
-> Explore the agent design, RAG pipeline, and API reference → [Backend Repository](https://github.com/hazem-gamal-1/Ideafy-agents)
-
 ---
 ## 🔍 Core Capabilities
 ### 📊 Idea Validation
@@ -72,8 +67,6 @@ Streaming structured JSON containing:
 - Legal analysis  
 - SWOT analysis  
 - Unified overall summary  
-
-> 📖 Full request/response documentation → [Backend Repository](https://github.com/hazem-gamal-1/Ideafy-agents)
 
 ---
 ## ⚙️ Technology Stack
